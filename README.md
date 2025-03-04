@@ -1,16 +1,30 @@
-# flash_meet_frontend
+# 🚀 Social Network App with Flutter & Node.js  
 
-A new Flutter project.
+This project is a **social network app** where users can **create and join meetups**, find events on a **map**, chat **in real time**, and manage their **profiles**.  
 
-## Getting Started
+📺 **Watch the full tutorial on YouTube:**  
+🔗 [Tutorial Video](https://youtu.be/92zJ71S9wC8)  
 
-This project is a starting point for a Flutter application.
+📂 **Backend Repository:**  
+🔗 [Backend Source Code](https://github.com/Izwin/flashmeet_backend) 
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Features  
+- 🔍 **Search meetups** on Google Maps and in a list view  
+- 📅 **Create & manage meetups**  
+- 💬 **Real-time chat** using WebSockets  
+- 🔐 **User authentication** with Google Firebase  
+- 📝 **Profile editing**  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used  
+- **Frontend:** Flutter  
+- **Backend:** Node.js + Express  
+- **Database:** MongoDb  
+- **Real-time Communication:** WebSockets  
+- **Maps & Location:** Google Maps API  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚡ Setup Instructions  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/your-username/social-network-app.git
+cd social-network-app
