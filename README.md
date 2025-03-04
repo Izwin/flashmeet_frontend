@@ -28,3 +28,5 @@ This project is a **social network app** where users can **create and join meetu
 ```bash
 git clone https://github.com/your-username/social-network-app.git
 cd social-network-app
+```
+## 🔐 Important: This project does not include the Firebase configuration and Google Maps API keys. You will need to set them up yourself.
